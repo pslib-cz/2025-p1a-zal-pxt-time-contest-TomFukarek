@@ -1,5 +1,5 @@
 //generované řešení tu je pro referenci, není určeno k bezmyšlenkovitému překopírování ;-)
-namespace Generated {
+//namespace Generated {
     enum GameState {
         Passive,   // čekání – hráč může zobrazit skóre nebo spustit hru
         Started,   // přehrávání intervalu – zobrazeny přesýpací hodiny
